@@ -1,3 +1,4 @@
-.expo
-.husky
-.vscode
+ios/
+android/
+coverage/
+
