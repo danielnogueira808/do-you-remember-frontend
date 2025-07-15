@@ -11,7 +11,7 @@
     "lint:fix": "eslint --fix .",
     "prepare": "husky",
     "format": "prettier --write . --ignore-unknown",
-    "test": "jest --watch --coverage=false --changedSince=origin/main",
+    "test": "jest --watch --coverage=false",
     "testDebug": "jest -o --watch --coverage=false",
     "testFinal": "jest"
   },
